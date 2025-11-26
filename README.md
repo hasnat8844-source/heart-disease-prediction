@@ -55,9 +55,13 @@ INSTALLATION & USAGE:
 PROJECT STRUCTURE:
 ------------------
 heart-disease-prediction/
+
 ├── heart_disease_model.py
+
 ├── requirements.txt
+
 ├── heart.csv
+
 └── README.md
 
 KEY FEATURES:
