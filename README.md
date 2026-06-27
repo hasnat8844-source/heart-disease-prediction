@@ -143,7 +143,7 @@ SHAP Documentation
 
 ## Developer
 
-**Hasnat**
+**Muhammed Hasnat**
 AI/ML Developer
 Specialization: Machine Learning & Deep Learning
 
